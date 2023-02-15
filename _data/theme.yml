@@ -8,8 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: http://consulta.archivogeneral.gov.co/ConsultaWeb/preview-image.jsp?id=3253134&idImagen=3552650&idNodoImagen=3253135
-# optional: add extra padding around collection title for a larger image feature. 
+featured-image: demo_004
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
