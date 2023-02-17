@@ -1,8 +1,8 @@
 color_class,color
 primary,orange
-secondary,
-success,
-info,
+secondary,blue
+success,green
+info,red
 warning,
 danger,
 light,
