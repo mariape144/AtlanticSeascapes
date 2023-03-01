@@ -8,13 +8,13 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="Imágen_about.JPG" %}
+{% include feature/jumbotron.html objectid="demo_001.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Sobre nosotros
-_El mar nos conecta. La vida nos ha llevado a sus aguas. Entre montañas vemos a la inmensidad de su existencia y la añoramos._ 
-Hemos construido este Archivo Digital para ofrecer acceso a una parte de la historia Atlántica que hasta hace poco había sido estudiada: La historia marítima.
+_El mar nos conecta. La vida nos ha llevado a sus aguas. Entre montañas vemos a la inmensidad de su existencia y la añoramos._/<br>
+  Hemos construido este Archivo Digital para ofrecer acceso a una parte de la historia Atlántica que hasta hace poco había sido estudiada: La historia marítima.
 Con el apoyo de Caribbean Digital Scholarship Collective (CDSC) y Cornell Library Digital Humanities, pudimos desarrollar esta herramienta. 
 Construimos este sitio web basándonos en el gran trabajo de Collection Builder. Utilizamos los templates para crear una colección digital usando [GitHub](https://pages.github.com/)
 
