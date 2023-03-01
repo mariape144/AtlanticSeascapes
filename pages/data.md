@@ -10,4 +10,4 @@ permalink: /data.html
 
 A continuación se muestra una tabla con los contenidos del Archivo Digital. 
 Usa los botones "CSV" o "Excel" para descargar la información filtrada que ves en la página en tu formato preferido. 
-También puedes hacer click en el botón de Descargar al lado derecgi para ver el catálogo completo en diferentes formatos. 
+También puedes hacer click en el botón de Descargar al lado derecho para ver el catálogo completo en diferentes formatos. 
